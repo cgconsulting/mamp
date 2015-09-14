@@ -60,7 +60,7 @@ $(function (){
 	var searchPage = path.substring(startIndx+1, endIndx);
 
 	switch(searchPage){
-
+//this is a comment to test the git pull method
 		case "RecentlyUpdated":
 			$("#searchTitleText").text("Recently Updated");
 			break;
