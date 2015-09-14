@@ -67,9 +67,6 @@ $(function (){
 		case "AllFeatured":
 			$("#searchTitleText").text("The Line Up");
 			break;
-		case "results":
-			$("#searchTitleText").text("Global Search Results");
-			break;
 		default:
 			$("#searchTitleText").text("Results");
 
